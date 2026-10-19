@@ -4,6 +4,7 @@ wp-includes/
 wp-json/
 wp-login.php
 wp-signup.php
+wp-json/wpml/v1/
 wp-register.php
 wp-cron.php
 wp-trackback.php
