@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Normal SVG</title>
+  <circle cx="100" cy="100" r="80" fill="#45b463"/>
+  <text x="100" y="105" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#fff">SAFE</text>
+</svg>
